@@ -9,13 +9,15 @@ This collection highlights my journey in **robotics, programming, and assistive 
 ---
 
 ## 🏅 Awards & Competitions:
-
  - **international Finalist – The European Union Contest for Young Scientists (EUCYS) 2025** <br>
   *Sponsored by:*The European union <br>
   *Awarding Institution:* State Education Development Agency of the Republic of Latvia , Latvia<br>
   You can check the competition website: <a href="https://www.eucys2025.eu/en/projects/" target="_blank" rel="noopener">EUCYS 2025 — Projects</a>
 
 
+ - **international Finalist – Sheikha Fadia Al-Saad Al-Sabah Scientific Competition (FSSC) 2025** <br>
+  *Sponsored by:*Al Saad foundation for knowledge and scientific research <br>
+  
 - **Gold Medal – Egypt International Science and Technology Fair (EISTEF), Cairo 2025**  
   *Awarding Institution:* Egypt International Science and Technology Fair (under the Ministry of Education, Egypt)<br>
 
@@ -75,9 +77,8 @@ This collection highlights my journey in **robotics, programming, and assistive 
 ---
 
 ## 🤖 Projects
-- **Care servos – "From Code to Care – Using Embedded Systems to Support Children with Cerebral Palsy" **  
+- Care servos – "From Code to Care – Using Embedded Systems to Support Children with Cerebral Palsy"  
   *Care Servos is a youth-led project that aims to help children with cerebral palsy through smart robotic assistive devices. By using servo motors, embedded systems, and rehabilitation programs, we provide affordable solutions that support children’s physical therapy and daily movement. Our goal is to make rehabilitation more accessible, interactive, and effective, helping every child live more independently and confidently.*  
-
 
 ---
 
