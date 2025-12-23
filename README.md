@@ -78,7 +78,8 @@ This collection highlights my journey in **robotics, programming, and assistive 
 
 ## 🤖 Projects
 - Care servos – "From Code to Care – Using Embedded Systems to Support Children with Cerebral Palsy"  
-  *Care Servos is a youth-led project that aims to help children with cerebral palsy through smart robotic assistive devices. By using servo motors, embedded systems, and rehabilitation programs, we provide affordable solutions that support children’s physical therapy and daily movement. Our goal is to make rehabilitation more accessible, interactive, and effective, helping every child live more independently and confidently.*  
+  *Care Servos is a youth-led project that aims to help children with cerebral palsy through smart robotic assistive devices. By using servo motors, embedded systems, and rehabilitation programs, we provide affordable solutions that support children’s physical therapy and daily movement. Our goal is to make rehabilitation more accessible, interactive, and effective, helping every child live more independently and confidently.*
+- PowerPuff road - Egypt suffers from severe traffic congestion, high fuel consumption, and increased pollution, which negatively affect daily life and road safety. This project proposes a low-cost intelligent road system using IoT sensors and ESP32-based V2V communication to monitor congestion, manage traffic flow, and prioritize emergency vehicles, improving safety and reducing delays especially in poor weather conditions. accourding to the results we got from the sensors we made an AI model that takes the data and prediect with the acciedent rate and the trip time.
 
 ---
 
